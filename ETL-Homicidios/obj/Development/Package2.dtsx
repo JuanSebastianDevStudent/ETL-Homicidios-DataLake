@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="1/12/2025 6:28:35 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="JS"
+  DTS:CreatorName="JS\JS"
+  DTS:DTSID="{06AF9F6B-D7F5-413A-807C-0049530F7343}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5467.0"
+  DTS:LocaleID="9226"
+  DTS:ObjectName="Package2"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{65E42FB3-F799-4233-A2BD-0B877BB0160B}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
